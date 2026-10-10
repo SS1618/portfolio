@@ -18,7 +18,7 @@ export default function Home() {
     <main>
       <section className="hero">
         <div className="eyebrow">
-          <span className="status-dot" /> SOFTWARE ENGINEER · BLOOMBERG
+          <span className="status-dot" /> SOFTWARE ENGINEER
         </div>
         <h1>
           Understanding systems
